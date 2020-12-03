@@ -106,7 +106,7 @@ $sta = bot('sendMessage',[
 'disable_web_page_preview'=>true,
   'reply_markup'=>json_encode([   
    'inline_keyboard'=>[
-          [['text'=>"Admin 🇺🇿",'url'=>"https://t.me/Shox_Xacker"],['text'=>" 🤖Yangiliklar ",'url'=>"https://telegram.me/Tg_botsnews"]], 
+          [['text'=>"Admin 🇺🇿",'url'=>"https://t.me/Shox_Xacker"],['text'=>" 🤖Yangiliklar ",'url'=>"https://telegram.me/Hacker_Bey"]], 
 ]   
 ]),
 ]);
@@ -190,7 +190,7 @@ bot('sendmessage',[
         'parse_mode'=>'markdown',
         'reply_markup'=>json_encode([
             'inline_keyboard'=>[
-            [['text'=>"Admin 🇺🇿",'url'=>"https://t.me/Shox_Xacker"],['text'=>"➕ Bot yangiliklari ➕",'url'=>"https://telegram.me/Tg_botsnews"]],          
+            [['text'=>"Admin 🇺🇿",'url'=>"https://t.me/Shox_Xacker"],['text'=>"➕ Bot yangiliklari ➕",'url'=>"https://telegram.me/Hacker_Bey"]],          
             ]
         ])
     ]);
